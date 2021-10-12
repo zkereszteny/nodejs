@@ -1,0 +1,18 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "description": "\"Demo app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "express": "^4.17.1",
+    "mocha": "^9.1.2",
+    "production": "0.0.2",
+    "supertest": "^6.1.6"
+  }
+}
